@@ -1,0 +1,25 @@
+.form{
+    width:500px;
+    margin: 40px 0;
+}
+
+.mt-10{
+    margin-top: 10px;
+}
+
+.bg-image{
+    background-image: url("Assets/Images/meetings-bg.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    padding: 6rem 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+#gallery{
+    display: flex;
+    align-items: flex-end;
+}
